@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/williamsimionatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsimionatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=30,c31432,240b36&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsimionatto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimionatto&layout=compact&langs_count=10&theme=tokyonight&bg_color=30,c31432,240b36&title_color=fff&text_color=fff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimionatto&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true"/>
 </div>
    
 
