@@ -1,10 +1,11 @@
-<div>
+<div align="center">
   <a href="https://github.com/williamsimionatto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsimionatto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimionatto&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true"/>
 </div>
  
+  <div align="center">
   <h3> Linguagens e Tecnologias</h3>
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -28,3 +29,4 @@
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
  </div>
+  </div>
