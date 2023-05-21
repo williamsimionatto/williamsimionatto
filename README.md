@@ -6,7 +6,7 @@
 </div>
  
   <div align="center">
-  <h3> Linguagens e Tecnologias</h3>
+  <h3>Languages and Technologies</h3>
     
   <img align="center" alt="NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -36,7 +36,7 @@
 
   ##
 
-<h3> Contatos</h3>
+<h3> Contact </h3>
  <div>   
    <a href="https://www.linkedin.com/in/william-simionatto-nepomuceno-48668a155/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>           
